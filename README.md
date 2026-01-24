@@ -9,7 +9,7 @@
 - Tools & Frameworks: Unity, React.js, Git
 - Familiar Concepts: OOP, Algorithms, Data Structure
   
-![JavaScript](https://skillicons.dev/icons?i=csharp,js,unity,react,python,git)
+![JavaScript](https://skillicons.dev/icons?i=cs,js,unity,react,python,git)
   
 
 
