@@ -8,6 +8,7 @@
 - Languages: C#, JavaScript, Python
 - Tools & Frameworks: Unity, React.js, Git
 - Familiar Concepts: OOP, Algorithms, Data Structure
+  
 ![JavaScript](https://skillicons.dev/icons?i=js,python,react,nodejs)
   
 
