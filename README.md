@@ -20,5 +20,5 @@
 
 📫 Email: ali.m.alahdal2@gmail.com
 
-📫 Portfilo: ali-alahdal.vercel.app/
+📫 Portfilo: ali-alahdal.vercel.app
 
