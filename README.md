@@ -1,5 +1,8 @@
 ## Hi, I'm Ali 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ali-Alahdal&label=Profile views&color=0e75b6&style=flat" alt="Ali-Alahdal" /> </p>
+
+
 - 💻 Software Developer
 - 🌱 Currently learning: Games Development & Web Development  
 - ⚡ Interests: Clean code, Games, Creative design
@@ -16,4 +19,6 @@
 📫 Reach me: linkedin.com/in/ali-alahdal
 
 📫 Email: ali.m.alahdal2@gmail.com
+
+📫 Portfilo: ali-alahdal.vercel.app/
 
