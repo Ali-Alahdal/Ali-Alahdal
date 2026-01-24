@@ -1,4 +1,4 @@
-## Hi, I'm Ali 👋
+## Hi, I'm Ali Alahdal👋
 
 - 💻 Software Developer
 - 🌱 Currently learning: Games Development & Web Development  
