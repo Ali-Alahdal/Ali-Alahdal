@@ -11,7 +11,7 @@
 
   
 ### 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![Stats]([https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true](https://ali-alahdal.vercel.app/))
 
 📫 Reach me: linkedin.com/in/ali-alahdal
 📫 Email: ali.m.alahdal2@gmail.com
