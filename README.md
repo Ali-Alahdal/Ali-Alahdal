@@ -14,5 +14,6 @@
 
 
 📫 Reach me: linkedin.com/in/ali-alahdal
+
 📫 Email: ali.m.alahdal2@gmail.com
 
