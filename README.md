@@ -7,7 +7,7 @@
 ### 🛠 Tech Stack
 - Languages: C#, JavaScript, Python
 - Tools & Frameworks: Unity, React.js, Firebase, Git
-- Familiar Concepts: OOP, Algorithms, Data Structure
+- Familiar Concepts: OOP, Algorithms, Data Structure, UI/UX
 
   
 ![JavaScript](https://skillicons.dev/icons?i=cs,unity,js,react,python,firebase,git)
