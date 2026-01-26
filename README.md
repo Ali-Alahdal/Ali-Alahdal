@@ -18,5 +18,4 @@
 
 📫 Email: ali.m.alahdal2@gmail.com
 
-📫 Portfolio: ali-alahdal.vercel.app
 
