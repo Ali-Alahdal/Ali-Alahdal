@@ -1,21 +1,33 @@
-## Hi, I'm Ali Alahdal👋
+# Hi, I'm Ali Alahdal 👋
 
-- 💻 Software Developer
-- 🌱 Currently learning: Games Development & Web Development  
-- ⚡ Interests: Clean code, Games, Creative design
+## Software Developer
 
-### 🛠 Tech Stack
-- Languages: C#, JavaScript, Python
-- Tools & Frameworks: Unity, React.js, Firebase, Git
-- Familiar Concepts: OOP, Algorithms, Data Structure, UI/UX
+I am a Software Developer with practical experience gained through internships, hackathons, and team-based projects. I build responsive web applications, backend services, database-driven solutions, and machine learning interfaces.
 
-  
-![JavaScript](https://skillicons.dev/icons?i=cs,unity,js,react,python,firebase,git)
-  
+- 🎓 Computer Technology and Information Systems graduate from Bartın University
+- 💼 Experienced with JavaScript, React.js, C#, ASP.NET, SQL, and Python
+- 🌱 Interested in full-stack development, machine learning, and game development
 
+## 🛠️ Technical Skills
 
-📫 Reach me: linkedin.com/in/ali-alahdal
+**Programming Languages**  
+JavaScript · C# · Python · SQL
 
-📫 Email: ali.m.alahdal2@gmail.com
+**Frameworks & Libraries**  
+React.js · ASP.NET · Tailwind CSS · Bootstrap · Scikit-learn · Pandas · NumPy
 
+**Databases**  
+PostgreSQL · MySQL · Microsoft SQL Server
 
+**Tools & Platforms**  
+Git · GitHub · Vercel · Figma · Unity Engine · Firebase · REST APIs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,react,tailwind,cs,dotnet,python,mysql,postgres,firebase,git,github,figma,unity,vercel" alt="Technology icons" />
+</p>
+
+## 📫 Connect With Me
+
+- Portfolio: [ali-alahdal.vercel.app](https://ali-alahdal.vercel.app)
+- LinkedIn: [linkedin.com/in/ali-alahdal](https://linkedin.com/in/ali-alahdal)
+- Email: [ali.m.alahdal2@gmail.com](mailto:ali.m.alahdal2@gmail.com)
